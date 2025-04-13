@@ -2,7 +2,9 @@
 
 ## Description
 
-
+The point of this project was to play around with the physics in unreal,
+In this game there are races changes the way the gravity goes,
+it contains a menu to change vehicle and one to select wich race you want to play.
 
 
 ## Screenshots
