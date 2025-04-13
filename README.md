@@ -2,6 +2,9 @@
 
 ## Description
 
+This game is about doing a full lap in the least amount of time possible, there are obstacle to block your path
+
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/ec7d2bc6-c8c6-4f8c-9afc-98095d44e9f5)
