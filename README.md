@@ -2,7 +2,7 @@
 
 ## Description
 
-This game is about doing a full lap in the least amount of time possible, there are obstacle to block your path
+
 
 
 ## Screenshots
